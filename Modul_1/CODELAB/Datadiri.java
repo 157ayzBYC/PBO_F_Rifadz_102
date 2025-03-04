@@ -3,7 +3,7 @@ package Modul_1.CODELAB;
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class Datadiri {
+public class a {
     public static void main(String[] args) {
         // Membuat objek Scanner agar bisa membaca input dari user
         Scanner scanner = new Scanner(System.in);
