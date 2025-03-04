@@ -1,1 +1,1 @@
-Me is ripadz
+Hai saya pengguna baru github :C
